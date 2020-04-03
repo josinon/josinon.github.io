@@ -121,3 +121,22 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+```html 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Document</title>
+   <link rel="stylesheet" href="style.css">
+   <script src="app.js"></script>
+</head>
+<body>
+
+    <h1>Meu Primeiro HTML</h1>
+    
+</body>
+</html>
+
+
+```
