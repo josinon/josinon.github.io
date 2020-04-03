@@ -3,3 +3,10 @@ description: Compartilhando conhecimento
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
+markdown: kramdown
+kramdown:
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
