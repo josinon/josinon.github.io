@@ -3,3 +3,6 @@ description: Compartilhando conhecimento
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
+highlight_options:
+  linenos: true
